@@ -1,0 +1,36 @@
+<!DOCTYPE .html>
+<html>
+    <head>
+      <style>  body{
+            background-color: grey;
+            display: grid;
+            height: 100vh;
+            place-items: center;
+      }</style>
+        <title>Dashboard</title>
+    </head> 
+    <body>
+        <h1> To Do List</h1> 
+        <ul>
+            <li> Woke up in the morining</li>
+            <li> After that i'll take my bath</li>
+            <li>Had breakfast in the morning </li>
+            <li>  Then going to the office </li>
+            <li>Doing the work</li>
+            <li>eating dinner at 12 clock</li>
+            <li> leaving the office at 4 clock </li>
+            <li> Finally Reached the home</li>
+            <li> Eating dinner at night</li>
+            <li> have a nyc sleep </li>
+
+            <button>submit</button> <br>
+            <label from="fname"> First Name:</label> 
+            <select> 
+               <option> </option>
+            </select>
+
+            <input type="text" id="fname" value="naveen kumar">
+
+        </ul>
+    </body>
+</html>
